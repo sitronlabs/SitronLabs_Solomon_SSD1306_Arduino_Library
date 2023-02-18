@@ -1,0 +1,15 @@
+{
+    "name": "Sitron_Labs_Solomon_SSD1306_Arduino_Library",
+    "version": "0.1.0",
+    "description": "Arduino library for OLED displays based on the SSD1306 controller.",
+    "keywords": "sitron labs,sitron,labs,arduino,library,display,oled,i2c,spi,ssd1306,controller",
+    "repository": {
+        "type": "git",
+        "url": "https:\/\/github.com\/sitronlabs\/SitronLabs_Solomon_SSD1306_Arduino_Library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*",
+    "build": {
+        "includeDir": "src"
+    }
+}

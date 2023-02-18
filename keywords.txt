@@ -1,0 +1,13 @@
+ssd1306	KEYWORD1
+setup	KEYWORD2
+detect	KEYWORD2
+brightness_set	KEYWORD2
+inverted_set	KEYWORD2
+invertDisplay	KEYWORD2
+clear	KEYWORD2
+pixel_set	KEYWORD2
+drawPixel	KEYWORD2
+display	KEYWORD2
+command_send	KEYWORD2
+data_send	KEYWORD2
+m_rotation_handle	KEYWORD2
